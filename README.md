@@ -1,0 +1,2 @@
+# baby_yoda
+Baby yoda wants to get to the other side of the road. Yoda is located at position X, and needs to get to a spot greater than or equal to position Y. Yoda can only take steps the size of distance D. Count the minimal number of steps that the baby yoda must perform to reach Y. Write a function: def solution(X, Y, D) that, given three integers X, Y and D, returns the minimal number of steps from position X to a position equal to or greater than Y.
